@@ -1,0 +1,13 @@
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.exe
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.deps.json
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.runtimeconfig.json
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.runtimeconfig.dev.json
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.dll
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\bin\Debug\netcoreapp3.1\xadrez_console.pdb
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.csprojAssemblyReference.cache
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.AssemblyInfoInputs.cache
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.AssemblyInfo.cs
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.csproj.CoreCompileInputs.cache
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.dll
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.pdb
+C:\Users\maick\OneDrive\Área de Trabalho\Programaçao\Projetos\xadrez_console\xadrez_console\obj\Debug\netcoreapp3.1\xadrez_console.genruntimeconfig.cache
