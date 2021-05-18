@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using tabuleiro.Enum;
+
 namespace tabuleiro
 {
     class Peca
@@ -10,13 +10,18 @@ namespace tabuleiro
         public Cor Cor { get; protected set; }
         public int QtdMovimentos { get; protected set; }
         public Tabuleiro Tab { get; set; }
-
-        public Peca(Posicao posicao, Cor cor, Tabuleiro tab)
+        public Peca()
         {
-            Posicao = posicao;
+
+        }
+
+        public Peca(Cor cor, Tabuleiro tab)
+        {
+            Posicao = null;
             Cor = cor;
             Tab = tab;
             QtdMovimentos = 0;
         }
+        
     }
 }

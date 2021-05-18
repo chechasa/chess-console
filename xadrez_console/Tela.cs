@@ -16,6 +16,7 @@ namespace tabuleiro
                     if (tab.Peca(i, j) == null)
                     {
                         Console.Write("- ");
+                         
 
                     }
 
